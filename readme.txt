@@ -1,2 +1,2 @@
 git test words!
-plaese come on!!!
+plaese come on!!!一个中文字符！
